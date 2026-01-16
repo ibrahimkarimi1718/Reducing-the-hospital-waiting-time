@@ -45,5 +45,19 @@ Patient's average wait time by department also indicate significant difference i
 
 <img width="449" height="430" alt="image" src="https://github.com/user-attachments/assets/f2352382-0dbb-45be-82ac-da31e988bc65" />
 
+The average wait times after improvement project reduced to 30 mins from 43 mins
+
+<img width="469" height="740" alt="image" src="https://github.com/user-attachments/assets/6053e68c-1999-4c4b-b898-50e0239c5aea" />
+
+Ratings also improved after the six sigma project
+
+<img width="395" height="403" alt="image" src="https://github.com/user-attachments/assets/2275d685-f54a-419a-8ebc-98486ec96672" />
+
+<img width="304" height="193" alt="image" src="https://github.com/user-attachments/assets/000117d2-6071-4449-9b90-ae1e72c19964" />
+
+Overall the Sigma Level of the hospital improved from 1 to 1.6
+
+<img width="501" height="115" alt="image" src="https://github.com/user-attachments/assets/0db55504-10f3-4a0f-85e8-0c31588c595c" />
+
 
 
