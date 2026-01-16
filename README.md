@@ -35,9 +35,9 @@ Patient's rating by department further help us to pin down the department that i
 
 <img width="401" height="407" alt="image" src="https://github.com/user-attachments/assets/1b08e631-5010-4328-b866-77c2a15b473b" />
 
-Kruskal Wallis test indicated the wait times is significantly different for different departments
+Kruskal Wallis test indicated patient rating is significantly different for different departments
 
 <img width="488" height="328" alt="image" src="https://github.com/user-attachments/assets/e3043af3-706d-472f-a35b-34477344db24" />
 
-
+Patient's average wait time by department also indicate 
 
