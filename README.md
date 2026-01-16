@@ -12,4 +12,5 @@ Streamlined appointment booking and reduced wait times to enhance patient experi
 Optimization of staff and examination rooms efficiently to maximize resources and minimize waste
 Increment in revenue by Reduces missed appointments and improves scheduling processes
 Increase patient satisfaction by 15%
+A CTQ tree was made to translate the voice of customer (VOC) to critical to measurable quality (CTQ) factors 
 <img width="518" height="466" alt="image" src="https://github.com/user-attachments/assets/0e52de61-e38d-40b1-991b-28990832f522" />
