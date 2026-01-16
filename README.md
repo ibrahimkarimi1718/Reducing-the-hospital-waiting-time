@@ -37,6 +37,7 @@ Patient wait times by department further help us to pin down the department that
 
 Kruskal Wallis test indicated the wait times is significantly different for different departments
 
-<img width="401" height="407" alt="image" src="https://github.com/user-attachments/assets/07f7b94b-018b-446c-93a8-fb8bfba6dfe8" />
+<img width="488" height="328" alt="image" src="https://github.com/user-attachments/assets/e3043af3-706d-472f-a35b-34477344db24" />
+
 
 
