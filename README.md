@@ -39,5 +39,11 @@ Kruskal Wallis test indicated patient rating is significantly different for diff
 
 <img width="488" height="328" alt="image" src="https://github.com/user-attachments/assets/e3043af3-706d-472f-a35b-34477344db24" />
 
-Patient's average wait time by department also indicate 
+Patient's average wait time by department also indicate significant difference in performance
+
+<img width="530" height="215" alt="image" src="https://github.com/user-attachments/assets/fdf0f4a8-56a7-41a0-b3ee-1a6477f9637d" />
+
+<img width="449" height="430" alt="image" src="https://github.com/user-attachments/assets/f2352382-0dbb-45be-82ac-da31e988bc65" />
+
+
 
