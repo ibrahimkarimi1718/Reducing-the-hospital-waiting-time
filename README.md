@@ -22,3 +22,7 @@ The SIPOC helps us to understand the process at a high level. The SIPOC for the 
 The IMR chart for the hospital wait times clearly indicated median value more than the industry standard of 30 minutes and the plot also showed high variability
 
 <img width="546" height="375" alt="image" src="https://github.com/user-attachments/assets/35a397e1-6640-4b23-b8be-ad2dac0f3e74" />
+
+Patient rating of their hospital experience also showed a median value of 3 for the current situation before improvement
+
+<img width="319" height="399" alt="image" src="https://github.com/user-attachments/assets/0883b170-5eda-4c5e-9bd8-05242448c4b2" />
