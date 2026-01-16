@@ -14,3 +14,5 @@ Increment in revenue by Reduces missed appointments and improves scheduling proc
 Increase patient satisfaction by 15%
 A CTQ tree was made to translate the voice of customer (VOC) to critical to measurable quality (CTQ) factors 
 <img width="518" height="466" alt="image" src="https://github.com/user-attachments/assets/0e52de61-e38d-40b1-991b-28990832f522" />
+The SIPOC helps us to understand the process at a high level. The SIPOC for the hospital registration procedure was made
+<img width="527" height="314" alt="image" src="https://github.com/user-attachments/assets/1adad7c5-44fb-47e5-8fe6-d2639113ea2e" />
