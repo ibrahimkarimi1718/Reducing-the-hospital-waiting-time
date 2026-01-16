@@ -18,3 +18,7 @@ A CTQ tree was made to translate the voice of customer (VOC) to critical to meas
 The SIPOC helps us to understand the process at a high level. The SIPOC for the hospital registration procedure was made
 
 <img width="527" height="314" alt="image" src="https://github.com/user-attachments/assets/1adad7c5-44fb-47e5-8fe6-d2639113ea2e" />
+
+The IMR chart for the hospital wait times clearly indicated median value more than the industry standard of 30 minutes and the plot also showed high variability
+
+<img width="546" height="375" alt="image" src="https://github.com/user-attachments/assets/35a397e1-6640-4b23-b8be-ad2dac0f3e74" />
