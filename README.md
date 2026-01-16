@@ -26,3 +26,8 @@ The IMR chart for the hospital wait times clearly indicated median value more th
 Patient rating of their hospital experience also showed a median value of 3 for the current situation before improvement
 
 <img width="319" height="399" alt="image" src="https://github.com/user-attachments/assets/0883b170-5eda-4c5e-9bd8-05242448c4b2" />
+
+The mean patient waiting time is 43 minutes and Sigma level roughly 1, before improvement. Results indicate great scope for improvement
+
+<img width="557" height="383" alt="image" src="https://github.com/user-attachments/assets/36d1ffe9-45d3-4907-8f55-c5e723a5c9cc" />
+
