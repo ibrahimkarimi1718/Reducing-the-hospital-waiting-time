@@ -31,7 +31,7 @@ The mean patient waiting time is 43 minutes and Sigma level roughly 1, before im
 
 <img width="557" height="383" alt="image" src="https://github.com/user-attachments/assets/36d1ffe9-45d3-4907-8f55-c5e723a5c9cc" />
 
-Patient wait times by department further help us to pin down the department that is causing most issue
+Patient's rating by department further help us to pin down the department that is causing most issue
 
 <img width="401" height="407" alt="image" src="https://github.com/user-attachments/assets/1b08e631-5010-4328-b866-77c2a15b473b" />
 
